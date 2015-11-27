@@ -1,0 +1,15 @@
+{
+  "name": "NodeGypTest",
+  "version": "0.0.0",
+  "description": "NodeGypTest",
+  "main": "app.js",
+  "author": {
+    "name": "itani",
+    "email": ""
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "keypress": "^0.2.1",
+    "strip-bom": "^2.0.0"
+  }
+}

@@ -1,0 +1,53 @@
+Number of native modules: 1766
+
+Install git
+
+fatal error LNK1181: cannot open input file 'C:\\OpenSSL-Win64\\lib\\libeay32.lib
+https://rajatmig29.wordpress.com/2014/06/25/node-js-npm-module-install-on-windows-8/
+
+"Macro definition of snprintf conflicts with Standard Library function declaration
+http://stackoverflow.com/questions/27754492/vs-2015-compiling-cocos2d-x-3-3-error-fatal-error-c1189-error-macro-definiti
+
+is not a member of 'node
+not compatible with current version of Node.js
+
+is not a member of 'v8
+not compatible with current version of v8
+
+EBADPLATFORM
+not compatible with current platform
+
+is not recognized as an internal or external command
+prerequisites not installed
+
+fatal error C1083: Cannot open include file: 'unistd.h'
+- library may not exist on windows
+
+
+error C2661: 'Nan:
+
+https://github.com/nodejs/node-gyp/issues/701
+
+error C2039: 'max': is not a member of 'std'
+http://stackoverflow.com/questions/19439670/min-max-not-a-member-of-std-errors-when-building-opencv-2-4-6-on-windows-8
+
+'fcntl': identifier not found
+http://cboard.cprogramming.com/networking-device-communication/115029-non-blocking-connect.html
+
+'_mm_crc32_u64': identifier not found 
+
+fatal error C1083: Cannot open include file: 'sys/time.h'
+
+fatal error LNK1194: cannot delay-load 'node.exe'
+
+Cannot open include file: 'vips/vips.h'
+
+error C2220: warning treated as error - no 'object' file generated
+
+fatal error C1083: Cannot open include file: 'arpa/inet.h'
+
+The system was unable to find the specified registry key or value
+
+shasum check failed
+
+error C2338
